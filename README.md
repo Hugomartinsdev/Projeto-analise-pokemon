@@ -15,5 +15,5 @@ As bibliotecas usadas as bibliotecas usadas estarão listadas abaixo e poderão 
 
 # Para rodar o projeto
 baixe as bibliotecas atraves do requeriment.txt no terminal use o comando
-<li>pip install -r requirements.txt</li>
+```pip install -r requirements.txt```
 apos isso rode normalmente de sua IDE de preferencia
