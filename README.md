@@ -7,6 +7,9 @@ Licença:CC0: Public Domain<br>https://creativecommons.org/publicdomain/zero/1.0
 ## link do dataset
 https://www.kaggle.com/datasets/abcsds/pokemon/data
 
+#Sobre o dataset
+Dataset Publico cujo caracteristicas dos dados é ter todos os status dos pokémon, além de sua somatoria,Tendo o numéro da pokedex, tipagem princiapl e secundaria, sua geração se é lensario ou não, miticos estão sendo considerados como pokemon"normal",além de ter as mecanicas de mega evoclução e forma primal dos pokemon, com as suas novas tabela de status
+
 # Bibliotecas
 As bibliotecas usadas as bibliotecas usadas estarão listadas abaixo e poderão ser baixadas via requeriment.txt, que estará no github do projeto
 
