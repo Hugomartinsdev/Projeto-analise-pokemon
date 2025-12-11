@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/abcsds/pokemon/data
 ## Sobre o dataset📖
 Dataset Publico cujo caracteristicas dos dados é ter todos os status dos pokémon, além de sua somatoria,Tendo o numéro da pokedex, tipagem princiapl e secundaria, sua geração se é lensario ou não, miticos estão sendo considerados como pokemon"normal",além de ter as mecanicas de mega evoclução e forma primal dos pokemon, com as suas novas tabela de status
 
-# Bibliotecas📕
+## Bibliotecas📕
 As bibliotecas usadas as bibliotecas para esse projeto foram:
 <ul>
   <li>pandas</li>
@@ -22,7 +22,7 @@ As bibliotecas usadas as bibliotecas para esse projeto foram:
   <li>sklearn</li>
 </ul>
 
-# Para rodar o projeto💻
+## Para rodar o projeto💻
 Escolha a sua IDE  de preferencia,baixe as bibliotecas atraves do arquivo requeriment.txt <br>
 no terminal use o comando:<br>
 ```pip install -r requirements.txt```<br>
